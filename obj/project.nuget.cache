@@ -1,8 +1,21 @@
 {
   "version": 2,
-  "dgSpecHash": "0jFQzJbXCu8a0iXJNsvqrBWED4htvi4NWqBClac8yI4Ii0WLnIDWYAiUcnERq0GhCqclGl5V6hQN18qEWkkOaw==",
+  "dgSpecHash": "If44J1aFV/ZgTVpSzaqq4ubTUv4VJGkS8JUeQOD1kVXLSLIx6CY2GOolIX1Te2vVEKr2LxblXqheqKgK2R+ovg==",
   "success": true,
   "projectFilePath": "C:\\Users\\ASUS\\source\\repos\\BerlinPostalCodes\\BerlinPostalCodes\\BerlinPostalCodes.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\nettopologysuite\\2.0.0\\nettopologysuite.2.0.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\nettopologysuite.features\\2.0.0\\nettopologysuite.features.2.0.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\osmsharp\\7.0.0-pre018\\osmsharp.7.0.0-pre018.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\osmsharp.geo\\7.0.0-pre018\\osmsharp.geo.7.0.0-pre018.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\protobuf-net\\2.4.6\\protobuf-net.2.4.6.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\system.private.servicemodel\\4.5.3\\system.private.servicemodel.4.5.3.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\system.reflection.dispatchproxy\\4.5.0\\system.reflection.dispatchproxy.4.5.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\system.servicemodel.primitives\\4.5.3\\system.servicemodel.primitives.4.5.3.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\system.text.json\\5.0.2\\system.text.json.5.0.2.nupkg.sha512"
+  ],
   "logs": []
 }
